@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node ./src/index.ts",
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "build": "npx tsc"
+
   },
   "keywords": [],
   "author": "amalbabujr13@gmail.com",
