@@ -29,3 +29,5 @@ https://github.com/goldbergyoni/nodebestpractices?tab=readme-ov-file#1-project-a
 
     delete image
     docker rmi <image>
+
+## docker dev-setup
